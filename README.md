@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Jose Tomanan</h1>
 <div style="display: flex;">
-  <div style="flex-basis: 50%;">
+  <div style="flex-basis: 40%;">
     <h3 align="center">Full-stack web developer</h3>
     <p align="center">
       <a href="https://linkedin.com/in/jedtomanan" target="blank">
