@@ -1,5 +1,5 @@
 <h1 align="center" id="title">Jose Tomanan</h1>
-<div style="display: flex;">
+<!-- <div style="display: flex;"> -->
   <div style="flex-basis: 25%;">
     <h3 align="center">Full-stack web developer</h3>
     <p align="center">
@@ -18,13 +18,13 @@
     </p>
   </div>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats" align="center" style="cursor: help;">
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats" align="center" style="cursor: help;">
     <img
       src="https://github-readme-stats.vercel.app/api?username=JoseTomanan&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark_dimmed&hide=contribs"
       alt="Stats" align="center"
       />
   </a>
-</div>
+</div> -->
 
 
 <!--
