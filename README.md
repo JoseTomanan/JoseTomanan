@@ -1,5 +1,5 @@
-<h3 align="center">Jose Tomanan</h3>
-<h5 align="center">Full-stack web developer</h5>
+<h1 align="center">Jose Tomanan</h1>
+<h3 align="center">Full-stack web developer</h3>
 
 <!--
 - 📫 How to reach me **jdtomanan@up.edu.ph**
