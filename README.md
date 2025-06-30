@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Jose Tomanan</h1>
+<h1 align="center" id="title">Hi ✋ I am Jose</h1>
 <!-- <div style="display: flex;"> -->
   <div style="flex-basis: 25%;">
     <h3 align="center">Full-stack web developer</h3>
