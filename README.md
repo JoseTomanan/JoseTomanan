@@ -1,5 +1,8 @@
-<h3 align="center" style="margin-bottom: 4px;" id="title">
-  Hi 👋 I am Jose, a full-stack developer
+<h2 align="center" style="margin-bottom: 0px;" id="title">
+  Hi 👋 I am Jose
+</h2>
+<h3 align="center" style="margin-bottom: 4px;">
+  Full-stack developer
 </h3>
 
 <div style="flex-basis: 25%;">  
@@ -10,7 +13,6 @@
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/svelte.svg" alt="LinkedIn" height="24" width="32"
         />
     </a>
-    <b>.</b>
     <a href="https://linkedin.com/in/jedtomanan" target="blank">
       <img
         align="center"
