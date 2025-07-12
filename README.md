@@ -7,9 +7,9 @@
 
 <div style="flex-basis: 25%;">  
   <p align="center">
-    <a href="https://josetmnn.vercel.app" target="blank" style="text-decoration: none;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/svelte.svg" alt="LinkedIn" height="24" width="32" /></a>
-    <a href="https://linkedin.com/in/jedtomanan" target="blank" style="text-decoration: none;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="24" width="32" /></a>
-    <a href="https://fb.com/jedtomanan" target="blank" style="text-decoration: none;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="24" width="32" /></a>
+    <a href="https://josetmnn.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/svelte.svg" alt="LinkedIn" height="24" width="32" /></a>
+    <a href="https://linkedin.com/in/jedtomanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="24" width="32" /></a>
+    <a href="https://fb.com/jedtomanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="24" width="32" /></a>
   </p>
 </div>
 
