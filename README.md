@@ -4,13 +4,12 @@
 
 <div style="flex-basis: 25%;">  
   <p align="center">
-    <a href="https://josetmnn.vercel.app" style="font-size: 20;" target="blank">
+    <a href="https://josetmnn.vercel.app" target="blank">
       <img
         style="vertical-align: bottom; margin-left: 4px; margin-right: 4px;"
         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFggf9yNRN9xCYku8XMEkSE0LU9uMhkYbehQ&s" alt="Vercel" height="24" width="24"
         />
     </a>
-    <b>.</b>
     <a href="https://linkedin.com/in/jedtomanan" target="blank">
       <img
         align="center"
