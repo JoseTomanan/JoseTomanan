@@ -1,23 +1,32 @@
-<h1 align="center" id="title">Hi ✋, I am Jose</h1>
-<!-- <div style="display: flex;"> -->
-  <div style="flex-basis: 25%;">
-    <h3 align="center">Full-stack web developer</h3>
-    <p align="center">
-      <a href="https://linkedin.com/in/jedtomanan" target="blank">
-        <img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"
-          />
-      </a>
-      <a href="https://fb.com/jedtomanan" target="blank">
-        <img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"
-          />
-      </a>
-    </p>
-  </div>
-  
+<h3 align="center" style="margin-bottom: 0px;" id="title">
+  Hi 👋 I am Jose, a full-stack developer
+</h3>
+
+<div style="flex-basis: 25%;">  
+  <p align="center">
+    <a href="https://josetmnn.vercel.app" style="font-size: 20;" target="blank">
+      <img
+        style="vertical-align: bottom; margin-left: 4px; margin-right: 4px;"
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFggf9yNRN9xCYku8XMEkSE0LU9uMhkYbehQ&s" alt="Vercel" height="24" width="24"
+        />
+    </a>
+    <b>.</b>
+    <a href="https://linkedin.com/in/jedtomanan" target="blank">
+      <img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="24" width="32"
+        />
+    </a>
+    <a href="https://fb.com/jedtomanan" target="blank">
+      <img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="24" width="32"
+        />
+    </a>
+  </p>
+</div>
+
+<!-- <div style="display: flex;"> -->  
   <!-- <a href="https://github.com/anuraghazra/github-readme-stats" align="center" style="cursor: help;">
     <img
       src="https://github-readme-stats.vercel.app/api?username=JoseTomanan&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark_dimmed&hide=contribs"
