@@ -1,4 +1,4 @@
-<h3 align="center" style="margin-bottom: 0px;" id="title">
+<h3 align="center" style="margin-bottom: 4px;" id="title">
   Hi 👋 I am Jose, a full-stack developer
 </h3>
 
@@ -6,10 +6,11 @@
   <p align="center">
     <a href="https://josetmnn.vercel.app" target="blank">
       <img
-        style="vertical-align: bottom; margin-left: 4px; margin-right: 4px;"
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFggf9yNRN9xCYku8XMEkSE0LU9uMhkYbehQ&s" alt="Vercel" height="24" width="24"
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/svelte.svg" alt="LinkedIn" height="24" width="32"
         />
     </a>
+    <b>.</b>
     <a href="https://linkedin.com/in/jedtomanan" target="blank">
       <img
         align="center"
