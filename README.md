@@ -2,7 +2,7 @@
   Hi 👋 I am Jose
 </h2>
 <h3 align="center" style="margin-bottom: 4px;">
-  Full-stack developer
+  TypeScript-proficient full-stack developer; <i>A solutions creator.</i>
 </h3>
 
 <div style="flex-basis: 25%;">  
