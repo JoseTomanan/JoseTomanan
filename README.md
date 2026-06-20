@@ -2,7 +2,8 @@
   Hi 👋 I am Jose
 </h2>
 <h3 align="center" style="margin-bottom: 4px;">
-  TypeScript-proficient full-stack developer; <i>A solutions creator.</i>
+  TypeScript-proficient full-stack developer who focuses on writing readable, maintainable, scalable code. <br>
+  <i>I create solutions.</i>
 </h3>
 
 <div style="flex-basis: 25%;">  
